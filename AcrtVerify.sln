@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrtVerify", "AcrtVerify\AcrtVerify.csproj", "{CBAEEAFE-CE7C-49ED-98DF-5C575A278F8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{44903904-D322-4942-A931-F11DFBB4D5DD}"
+	ProjectSection(SolutionItems) = preProject
+		templafy.docx = templafy.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAEEAFE-CE7C-49ED-98DF-5C575A278F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAEEAFE-CE7C-49ED-98DF-5C575A278F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAEEAFE-CE7C-49ED-98DF-5C575A278F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAEEAFE-CE7C-49ED-98DF-5C575A278F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE72EEE-5000-40AC-96DB-BC918AADFE08}
+	EndGlobalSection
+EndGlobal
